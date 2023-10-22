@@ -1,0 +1,132 @@
+ul {
+  list-style-type: none;
+}
+button {
+  cursor: pointer;
+}
+.logo-link,
+.menu-link,
+.address-link,
+.logo-footer {
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+.logo,
+.logo-link,
+.logo-footer-end {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.logo-link {
+  color: #4d5ae5;
+}
+.logo {
+  color: #2e2f42;
+}
+.menu-link {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.address-link {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.contacts {
+  font-style: normal;
+}
+
+.menu-link:hover,
+.menu-link:focus,
+.address-link:hover,
+.address-link:focus,
+.logo-footer:hover,
+.logo-footer:focus {
+  color: #404bbf;
+}
+
+.hero-section {
+  background: #2e2f42;
+}
+.main-title {
+  text-align: center;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.button-ord {
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  background-color: #4d5ae5;
+  color: #ffffff;
+}
+.button-ord:hover,
+.button-ord:focus {
+  background-color: #404bbf;
+}
+.invisible {
+  font-size: 0;
+}
+h3 {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.benefits-description,
+.team-work,
+.portfolio-descr,
+.footer-descr {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.section-header {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.team {
+  background-color: #f4f4fd;
+}
+.team-item {
+  background-color: #ffffff;
+}
+.team-person {
+  text-align: center;
+}
+.logo-footer-end {
+  color: #f4f4fd;
+}
+.footer-section {
+  background-color: #2e2f42;
+}
+.footer-descr {
+  color: #f4f4fd;
+}
